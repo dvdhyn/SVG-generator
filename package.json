@@ -2,6 +2,7 @@
   "dependencies": {
     "chai": "^5.0.0",
     "inquirer": "^9.2.12",
+    "inquirer-maxlength-input-prompt": "^1.0.2",
     "svg.js": "^2.7.1"
   },
   "name": "svg-generator",
