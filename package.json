@@ -1,7 +1,7 @@
 {
   "dependencies": {
+    "chai": "^5.0.0",
     "inquirer": "^9.2.12",
-    "jest": "^29.7.0",
     "svg.js": "^2.7.1"
   },
   "name": "svg-generator",
@@ -14,9 +14,13 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "shapes-test": "jest shapes.test.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
