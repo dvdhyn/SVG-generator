@@ -1,10 +1,10 @@
 # SVG-Logo-Generator
 
 ## Table of Contents
-* User Story [#user-story]
-* Acceptance Criteria [#acceptance-criteria]
-* My Goal [#my-goal]
-* Demonstration [#demonstration]
+* [User Story] (#user-story)
+* [Acceptance Criteria] (#acceptance-criteria)
+* [My Goal] (#my-goal)
+* [Demonstration] (#demonstration)
 
 ## User Story
 
