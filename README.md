@@ -17,8 +17,6 @@ SO THAT I don't have to pay a graphic designer
 
 ## Acceptance Criteria
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
-
 ```
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for text
