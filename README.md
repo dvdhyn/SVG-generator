@@ -1,4 +1,4 @@
-# SVG-Logo-Generator
+![logo](https://github.com/dvdhyn/svg-generator/assets/145178667/4b43004b-c374-4466-af58-eecb54218980)# SVG-Logo-Generator
 
 ## Table of Contents
 * [User Story](#user-story)
@@ -42,3 +42,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Demonstration
 https://watch.screencastify.com/v/vtxLfakAbWN2lPteHLOj
+
+Here is an example of what may be produced:
+![Uploa<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="40" fill="black" />
+    <text x="50" y="55" text-anchor="middle" fill="red" font-family="sans-serif" font-size="16">VAL</text>
+    </svg>ding logo.svg…]()
+
