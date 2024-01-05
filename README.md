@@ -1,3 +1,5 @@
+# SVG-Logo-Generator
+
 ## Table of Contents
 * [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
@@ -42,4 +44,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 https://watch.screencastify.com/v/vtxLfakAbWN2lPteHLOj
 
 Here is an example of what may be produced:
-![logo](https://github.com/dvdhyn/svg-generator/assets/145178667/4b43004b-c374-4466-af58-eecb54218980)# SVG-Logo-Generator
+![logo](https://github.com/dvdhyn/svg-generator/assets/145178667/4b43004b-c374-4466-af58-eecb54218980)
